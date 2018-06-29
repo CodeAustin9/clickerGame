@@ -1,0 +1,10 @@
+.card{
+    width: 200;
+    height: 200;
+    right: 200;
+    
+}
+.column{
+    align-content: middle;
+    display:inline-block;
+}
